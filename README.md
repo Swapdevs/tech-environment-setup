@@ -18,7 +18,8 @@ This guide details how I installed and configured the essential tools for my dev
    - Add to system PATH (recommended).
 4. After installation, launch VS Code.
 
-**Confirmation Screenshot:** VS Code welcome screen after opening ![Capture the **VS Code welcome screen** after opening](https://github.com/Swapdevs/tech-environment-setup/blob/main/screenshots/VS%20Code%20Welcome%20Screen.jpg)
+**Confirmation Screenshot:** VS Code Welcome Screen 
+![Capture the **VS Code welcome screen** after opening](https://github.com/Swapdevs/tech-environment-setup/blob/main/screenshots/VS%20Code%20Welcome%20Screen.jpg)
 
 
 ---
@@ -39,7 +40,8 @@ This guide details how I installed and configured the essential tools for my dev
    git --version
    ```
 
-**Confirmation Screenshot:** Terminal displaying `git --version` output. ![Terminal displaying `git --version` output.](https://github.com/Swapdevs/tech-environment-setup/blob/main/screenshots/Terminal%20with%20%60git%20--version%60%20Output.jpg)
+**Confirmation Screenshot:** Git Installation Confirmation:
+![Terminal displaying `git --version` output.](https://github.com/Swapdevs/tech-environment-setup/blob/main/screenshots/Terminal%20with%20%60git%20--version%60%20Output.jpg)
 
 
 ---
@@ -56,7 +58,8 @@ This guide details how I installed and configured the essential tools for my dev
    - Accept default settings.
 4. After installation, open VirtualBox to verify it works.
 
-**Confirmation Screenshot:** VirtualBox welcome or main screen. ![VirtualBox welcome or main screen.](https://github.com/Swapdevs/tech-environment-setup/blob/main/screenshots/VirtualBox%20Welcome%20Screen.jpg)
+**Confirmation Screenshot:** VirtualBox Installation Confirmation:
+ ![VirtualBox welcome or main screen.](https://github.com/Swapdevs/tech-environment-setup/blob/main/screenshots/VirtualBox%20Welcome%20Screen.jpg)
 
 ---
 
@@ -78,7 +81,8 @@ This guide details how I installed and configured the essential tools for my dev
 5. Proceed through the Ubuntu installation process inside VirtualBox.
 6. After setup, login using the created Ubuntu user.
 
-**Confirmation Screenshot:** Ubuntu login screen inside VirtualBox. ![Ubuntu **login screen** inside VirtualBox.](https://github.com/Swapdevs/tech-environment-setup/blob/main/screenshots/Ubuntu%20Virtual%20Machine%20Login%20Prompt.jpg)
+**Confirmation Screenshot:** Ubuntu Installation Confirmation:
+ ![Ubuntu **login screen** inside VirtualBox.](https://github.com/Swapdevs/tech-environment-setup/blob/main/screenshots/Ubuntu%20Virtual%20Machine%20Login%20Prompt.jpg)
 
 
 ---
@@ -94,7 +98,8 @@ This guide details how I installed and configured the essential tools for my dev
 3. Complete profile setup and email verification.
 4. Once logged in, explore the dashboard and create your first repository.
 
-**Confirmation Screenshot:** Logged-in GitHub dashboard showing your profile or repositories. ![Logged-in **GitHub dashboard** showing your profile or repositories.](https://github.com/Swapdevs/tech-environment-setup/blob/main/screenshots/GitHub%20Dashboard%20(Logged%20In).jpg)
+**Confirmation Screenshot:** GitHub User Account Setup:
+ ![Logged-in **GitHub dashboard** showing your profile or repositories.](https://github.com/Swapdevs/tech-environment-setup/blob/main/screenshots/GitHub%20Dashboard%20(Logged%20In).jpg)
 
 
 ---
@@ -111,5 +116,6 @@ This guide details how I installed and configured the essential tools for my dev
 4. Once setup is complete, login to the **AWS Management Console**.
 5. Explore services like EC2, S3, IAM, etc.
 
-**Confirmation Screenshot:** AWS Management Console home screen after login. ![AWS **Management Console home screen** after login.](https://github.com/Swapdevs/tech-environment-setup/blob/main/screenshots/AWS%20Management%20Console%20Homepage.jpg)
+**Confirmation Screenshot:** AWS User Account Setup:
+ ![AWS **Management Console home screen** after login.](https://github.com/Swapdevs/tech-environment-setup/blob/main/screenshots/AWS%20Management%20Console%20Homepage.jpg)
 
