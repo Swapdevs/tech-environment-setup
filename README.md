@@ -41,7 +41,7 @@ VS Code Welcome Screen
    ```
 
 Git Installation Confirmation
-![Git Installation Confirmation](https://github.com/Swapdevs/tech-environment-setup/blob/main/screenshots/Terminal%20with%20%60git%20--version%60%20Output.jpg)
+![Git Installation Confirmation](https://github.com/Swapdevs/tech-environment-setup/blob/main/screenshots/Git%20Installation%20Confirmation.jpg)
 
 
 ---
@@ -59,7 +59,7 @@ Git Installation Confirmation
 4. After installation, open VirtualBox to verify it works.
 
 VirtualBox Installation Confirmation
- ![VirtualBox Installation Confirmation](https://github.com/Swapdevs/tech-environment-setup/blob/main/screenshots/VirtualBox%20Welcome%20Screen.jpg)
+ ![VirtualBox Installation Confirmation](https://github.com/Swapdevs/tech-environment-setup/blob/main/screenshots/VirtualBox%20Installation%20Confirmation.jpg)
 
 ---
 
@@ -82,7 +82,7 @@ VirtualBox Installation Confirmation
 6. After setup, login using the created Ubuntu user.
 
 Ubuntu Installation Confirmation
- ![Ubuntu Installation Confirmation](https://github.com/Swapdevs/tech-environment-setup/blob/main/screenshots/Ubuntu%20Virtual%20Machine%20Login%20Prompt.jpg)
+ ![Ubuntu Installation Confirmation](https://github.com/Swapdevs/tech-environment-setup/blob/main/screenshots/Ubuntu%20Installation%20on%20VirtualBox%20.jpg)
 
 
 ---
@@ -99,7 +99,7 @@ Ubuntu Installation Confirmation
 4. Once logged in, explore the dashboard and create your first repository.
 
 GitHub User Account Setup
- ![GitHub User Account Setup](https://github.com/Swapdevs/tech-environment-setup/blob/main/screenshots/GitHub%20Dashboard%20(Logged%20In).jpg)
+ ![GitHub User Account Setup](https://github.com/Swapdevs/tech-environment-setup/blob/main/screenshots/GitHub%20User%20Account%20Setup.jpg)
 
 
 ---
@@ -117,5 +117,5 @@ GitHub User Account Setup
 5. Explore services like EC2, S3, IAM, etc.
 
 AWS User Account Setup
- ![AWS User Account Setup](https://github.com/Swapdevs/tech-environment-setup/blob/main/screenshots/AWS%20Management%20Console%20Homepage.jpg)
+ ![AWS User Account Setup](https://github.com/Swapdevs/tech-environment-setup/blob/main/screenshots/AWS%20Management%20Console.jpg)
 
