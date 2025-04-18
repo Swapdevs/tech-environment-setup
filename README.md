@@ -1,4 +1,4 @@
-# 🛠️ How I Set Up My Tech Environment
+# 🛠️ How I Set Up My Tech Environment for 3mtt projects
 
 This guide outlines the steps I took to set up my tech environment to begin working effectively on development and DevOps tasks. It includes system requirements, essential installations, and initial setup instructions.
 
